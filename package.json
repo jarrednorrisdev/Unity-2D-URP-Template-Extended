@@ -17,5 +17,10 @@
     "version": "0.0.1",
     "type": "template",
     "unity": "2022.1",
-    "description": "Turnip's 2D URP Template."
+    "description": "Turnip's 2D URP Template.",
+    "repository": {
+      "url": "https://github.com/jarrednorrisdev/Turnip-Template.git",
+      "type": "git",
+      "revision": "bdc343d010706ea159933b036af1d861f8f33e36"
+    }
     }
